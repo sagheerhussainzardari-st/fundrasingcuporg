@@ -1,0 +1,1719 @@
+
+@media (min-width: 1200px){
+.container {
+    max-width: 1200px;
+}
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    padding-left: 30px;
+}
+
+.bg-light {
+    height: 102px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.06);
+    background-color: #ffffff !important;
+}
+
+.navbar-nav li span {
+    padding-left: 10px;
+    display: block;
+    padding-right: 10px;
+}
+
+.navbar-nav .nav-item {}
+
+.navbar-nav .nav-item button {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 15px;
+    border-radius: 8px;
+    padding: 13px 34px;
+    margin-left: 7px;
+}
+
+button.btn.btn-primary.blue-button {
+    background-color: #177ece;
+    border-color: #177ece;
+}
+
+button.btn.btn-dark.dark-button {
+    background-color: #052833;
+    border-color: #052833;
+}
+
+ul.navbar-nav.ml-auto {
+    align-items: center;
+}
+/********banner start***********/
+.dog-friend {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.banner {
+    background-image: url('../img/banner.png');
+    background-size: cover;
+    height: 725px;
+    padding-top: 107px;
+}
+
+.dog-friend h2 {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 55px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 55px;
+    text-align: center;
+}
+
+.dog-friend img {
+    width: 100%;
+}
+
+.dog-friend ul {
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 54px;
+}
+
+.dog-friend ul li p {
+    color: #4a4a4a;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 16px;
+}
+
+.dog-friend ul li p b {
+    font-weight: 700;
+}
+/********banner end***********/
+
+/*******dog-treats start********/
+
+.dog-treats {
+    margin-top: 257px;
+}
+
+button.btn.btn-primary.click-button {
+    width: 123px;
+    height: 43px;
+    border-radius: 8px;
+    background-color: #177ece;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 15px;
+    border-color: #177ece;
+    margin-bottom: 30px;
+}
+
+.dog-eat h2 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 45px;
+}
+.dog-eat h3 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.dog-eat p {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 35px;
+    text-align: left;
+    margin-bottom: 36px;
+}
+
+.dog-eat p a {
+    color: #1d6bdf;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.dog-helps-list ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.dog-helps-list ul li {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.dog-helps-list ul li h4 {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 28px;
+    padding-left: 16px;
+}
+
+
+/*******dog-treats end********/
+
+/********more-intelligent start********/
+.more-intelligent {
+    background-color: #e7f5fc;
+    padding-top: 72px;
+    margin-top: 40px;
+    padding-bottom: 100px;
+}
+
+.intelligent-dogs h2 {
+    margin-bottom: 30px;
+    color: #000000;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+}
+
+.intelligent-dogs ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    margin-bottom: 50px;
+}
+
+.intelligent-dogs ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.intelligent-dogs ul li p {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 28px;
+    margin-left: 16px;
+    margin-bottom: 0;
+}
+
+.intelligent-bg {
+    border-radius: 15px;
+    border: 1px solid #ccdae1;
+    background-color: #f6fcff;
+    padding: 33px;
+    margin-bottom: 75px;
+}
+
+.intelligent-bg ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.intelligent-bg ul li p {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 45px;
+    margin: 0;
+    margin-left: 16px;
+}
+.intelligent-bg ul li {
+    display: flex;
+    align-items: center;
+}
+
+.intelligent-bg ul li p b {
+    font-weight: 700;
+}
+
+.why-brand h2 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    margin: 0;
+    margin-bottom: 47px;
+}
+
+.brand-img img {
+    width: 100%;
+}
+
+/********more-intelligent end********/
+
+/*********dog-owener start*********/
+.dog-owener {
+    padding-top: 100px;
+}
+
+.dog-xtylo h2 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+.dog-xtylo p {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 30px;
+    text-align: left;
+}
+
+.dog-xtylo p a {
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.dog-owener .row {
+    align-items: center;
+    padding-bottom: 80px;
+}
+
+/*********dog-owener end*********/
+
+/********in-nutshell start***********/
+.dog-nutshell h2 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+}
+
+.dog-nutshell p {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 30px;
+    margin-bottom: 47px;
+}
+
+.dog-nutshell p a {
+    color: #1d6bdf;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.dog-nutshell h3 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 45px;
+    margin-bottom: 27px;
+}
+
+.in-nutshell {
+    background-color: #e7f5fc;
+    padding-top: 76px;
+    padding-bottom: 98px;
+}
+
+.show-img img {
+    width: 100%;
+}
+
+/********in-nutshell end***********/
+
+/********cat-food start***********/
+
+.cat-food {
+    padding-top: 80px;
+}
+
+.cat-food-list h2 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 45px;
+    margin-bottom: 20px;
+}
+
+.cat-food-list p {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 30px;
+    margin-bottom: 42px;
+}
+
+.cat-food-list p a {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.cat-food-list h3 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+}
+
+/********cat-food end***********/
+
+/*******fast-about start************/
+.amazing-bg {
+    background-color: #e7f5fc;
+    padding: 88px 0px;
+    margin-top: 60px;
+}
+
+.fast-about h2 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 60px;
+    margin-bottom: 20px;
+}
+
+.fast-about a {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 30px;
+    color: #1d6bdf;
+    text-decoration: underline;
+}
+
+.fast-about p {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 30px;
+    margin-top: 30px;
+}
+
+.amazing-bg .row {
+    align-items: center;
+}
+
+/*******fast-about end************/
+
+/********leave-comment start**********/
+
+.leave-comment {
+    background-image: url('../img/banner2.png');
+    padding-top: 87px;
+    padding-bottom: 100px;
+}
+
+.comment-title {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.comment-title h2 {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 45px;
+}
+
+.comment-title p {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 20px;
+}
+
+.comment-form label {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 16px;
+}
+
+.comment-form textarea {
+    height: 119px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #ffffff;
+    border: 0;
+}
+
+.comment-form input {
+    height: 49px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #ffffff;
+    border: 0;
+}
+
+.comment-form .form-check input {
+    height: auto;
+}
+
+button.btn.btn-dark.post-button {
+    border-radius: 8px;
+    background-color: #052833;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 20px;
+    text-transform: uppercase;
+    width: 100%;
+    padding: 23px 0;
+    border: 0;
+}
+
+.post-btt {
+    margin-top: 37px;
+}
+
+.comment-form {
+    max-width: 712px;
+    margin: 0 auto;
+}
+
+/********leave-comment end**********/
+
+/*******footer start**********/
+.footer {
+    padding-top: 50px;
+}
+
+.footer-logo .form-group select {
+    height: 43px !important;
+    border-radius: 8px;
+    border: 1px solid #d6d6d6;
+    background-color: #ffffff;
+    color: #052833;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 15px;
+    width: 227px;
+}
+
+.footer-logo .form-group {
+    margin-top: 44px;
+}
+
+button.btn.btn-primary.Donate-button {
+    width: 227px;
+    height: 43px;
+    border-radius: 8px;
+    background-color: #177ece;
+    border: 0;
+}
+
+.footer-link h2 {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 20px;
+    margin-bottom: 25px;
+}
+
+.footer-link ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.footer-link ul li a {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-decoration: none;
+}
+
+.footer-link ul li {
+    padding-bottom: 30px;
+}
+
+.copy-right {
+    border-top: 1px solid #eaeaea;
+    margin-top: 50px;
+    padding: 25px 0;
+}
+
+.copy-link ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.copy-link ul li {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-align: left;
+    color: #d8d8d8;
+}
+
+.copy-link p {
+    color: #404040;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-align: left;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.copy-link ul li a {
+    color: #404040;
+    padding: 0 14px;
+    text-decoration: none;
+}
+
+.copy-social ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-items: self-end;
+    justify-content: flex-end;
+}
+
+.copy-social ul a {
+    padding-left: 20px;
+}
+
+.copy-right .row {
+    align-items: center;
+}
+.copy-link {
+    display: flex;
+    align-items: center;
+}
+button.btn.btn-primary.blue-button:hover {
+    background-color: #052833;
+    border-color: #052833;
+    color: #fff;
+}
+
+button.btn.btn-dark.dark-button:hover {
+    background-color: #177ece;
+    border-color: #177ece;
+}
+
+button.btn.btn-primary.click-button:hover {
+    background-color: #052833;
+    border-color: #052833;
+}
+
+button.btn.btn-dark.post-button:hover {
+    background-color: #ffffff;
+    color: #000;
+}
+
+button.btn.btn-primary.Donate-button:hover {
+    background-color: #052833;
+}
+/*******footer end**********/
+
+/********responsive start*************/
+@media screen and (min-device-width: 320px) and (max-device-width: 767px) { 
+.navbar-light .navbar-toggler {
+    background-color: #3c9af1;
+    border-color: #3c9af1;
+    outline: none;
+}
+.fast-about img {
+    width: 100%;
+}
+.copy-link {
+    flex-direction: column;
+}
+
+.dog-eat-img img {
+    width: 100%;
+}
+
+.navbar-brand img {
+    width: 100%;
+}
+
+a.navbar-brand {
+    width: 70%;
+}
+
+.bg-light {
+    height: auto;
+}
+
+ul.navbar-nav.ml-auto {
+    align-items: flex-start;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding-left: 0;
+}
+
+.navbar-nav .nav-item button {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.banner {
+    padding-top: 50px;
+    height: 294px;
+    padding-bottom: 0;
+}
+
+.dog-friend h2 {
+    font-size: 23px;
+    line-height: initial;
+}
+
+.dog-friend ul {
+    flex-direction: column;
+    padding: 0;
+    padding-top: 20px;
+}
+.intelligent-dogs ul li p {
+    font-size: 16px;
+}
+
+.dog-treats {
+    margin-top: 110px;
+}
+
+.dog-eat h2 {
+    font-size: 25px;
+    line-height: initial;
+}
+
+.dog-eat h3 {
+    font-size: 20px;
+}
+
+.dog-helps-list ul li h4 {
+    font-size: 16px;
+}
+
+.more-intelligent {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.intelligent-dogs h2 {
+    font-size: 20px;
+}
+
+.brand-img {
+    margin-bottom: 15px;
+}
+
+.dog-owener {
+    padding-top: 0;
+}
+.dog-owener .row:nth-child(odd) {
+    flex-direction: column-reverse;
+}
+
+.dog-xtylo h2 {
+    font-size: 25px;
+}
+
+.dog-xtylo {
+    margin-top: 20px;
+}
+
+.dog-owener .row {
+    padding: 20px 0px;
+}
+
+.dog-nutshell h3 {
+    font-size: 25px;
+    line-height: initial;
+}
+
+.dog-nutshell h2 {
+    font-size: 20px;
+}
+
+.cat-food-list h2 {
+    font-size: 25px;
+}
+
+.cat-food {
+    padding-top: 50px;
+}
+
+.cat-food-list h3 {
+    font-size: 20px;
+}
+
+.fast-about h2 {
+    font-size: 25px;
+    line-height: initial;
+}
+
+.amazing-bg {
+    padding-top: 50px;
+    margin-top: 50px;
+}
+
+.leave-comment {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.comment-title h2 {
+    font-size: 25px;
+}
+
+.comment-title {
+    padding-bottom: 30px;
+}
+
+.comment-title p {
+    line-height: initial;
+    font-size: 16px;
+}
+
+.footer-logo {
+    margin-bottom: 20px;
+}
+
+.footer-link ul li {
+    padding-bottom: 13px;
+}
+
+
+.copy-link ul {
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.copy-social ul {
+    justify-content: center;
+}
+
+.copy-link p {
+    text-align: center;
+    margin: 0;
+}
+
+.dog-friend ul li p {
+    line-height: initial;
+}
+
+.dog-eat p {
+    font-size: 16px;
+}
+
+.intelligent-bg {
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.intelligent-bg ul li p {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.intelligent-bg ul li {
+    align-items: flex-start;
+}
+
+.why-brand h2 {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.in-nutshell {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.dog-nutshell p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.cat-food-list p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+button.btn.btn-dark.post-button {
+    font-size: 16px;
+    padding: 15px 0;
+}
+.dog-helps-list ul li {
+    margin-bottom: 20px;
+}
+.intelligent-dogs ul li {
+    margin-bottom: 20px;
+}
+
+.comment-form textarea {
+    height: 80px;
+} 
+.copy-right {
+    margin-top: 20px;
+}   
+}
+
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) { 
+.navbar-light .navbar-toggler {
+    background-color: #3c9af1;
+    border-color: #3c9af1;
+    outline: none;
+}
+.copy-right .col-md-6:first-child {
+    max-width: 80%;
+    flex: 80%;
+}
+
+.copy-right .col-md-6:last-child {
+    max-width: 20%;
+    flex: 20%;
+}
+.dog-eat-img img {
+    width: 100%;
+}
+
+.fast-about img {
+    width: 100%;
+}
+
+.footer-logo img {
+    width: 100%;
+}
+
+.bg-light {
+    height: auto;
+}
+
+ul.navbar-nav.ml-auto {
+    align-items: flex-start;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding-left: 0;
+}
+
+.navbar-nav .nav-item button {
+    margin-left: 0px;
+}
+
+.banner {
+    height: 554px;
+    padding-top: 50px;
+}
+
+.dog-friend h2 {
+    font-size: 30px;
+}
+
+.dog-treats {
+    margin-top: 80px;
+}
+
+.dog-eat h2 {
+    font-size: 30px;
+}
+
+.dog-eat p {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.dog-eat h3 {
+    font-size: 20px;
+}
+
+.dog-helps-list ul li h4 {
+    font-size: 16px;
+}
+
+.more-intelligent {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.intelligent-dogs h2 {
+    font-size: 20px;
+}
+
+.intelligent-dogs ul li p {
+    font-size: 16px;
+}
+
+.intelligent-bg {
+    padding: 25px;
+    margin-bottom: 30px;
+}
+
+.intelligent-bg ul li p {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.intelligent-bg ul li {
+    align-items: flex-start;
+}
+
+.why-brand h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.dog-owener {
+    padding-top: 50px;
+}
+
+.dog-xtylo h2 {
+    font-size: 25px;
+}
+
+.dog-xtylo p {
+    font-size: 16px;
+    margin: 0;
+}
+
+.dog-owener .row {
+    padding-bottom: 50px;
+}
+
+.in-nutshell {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.dog-nutshell p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.dog-nutshell h2 {
+    font-size: 20px;
+}
+
+.dog-nutshell h3 {
+    font-size: 30px;
+}
+
+.cat-food {
+    padding-top: 50px;
+}
+
+.cat-food-list h2 {
+    font-size: 30px;
+}
+
+.cat-food-list p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.cat-food-list h3 {
+    font-size: 20px;
+}
+
+.amazing-bg {
+    margin-top: 20px;
+    padding: 50px 0px;
+}
+
+.fast-about h2 {
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.fast-about p {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.leave-comment {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.comment-title h2 {
+    font-size: 30px;
+}
+
+.comment-title {
+    padding-bottom: 30px;
+}
+
+.comment-form textarea {
+    height: 80px;
+}
+
+button.btn.btn-dark.post-button {
+    padding: 15px 0;
+    font-size: 16px;
+}
+
+.footer-link ul li {
+    padding-bottom: 14px;
+}
+
+.footer-link h2 {
+    font-size: 18px;
+}
+
+.footer-logo .form-group {
+    margin-top: 20px;
+}
+
+.comment-title p {
+    font-size: 16px;
+}
+}
+
+@media screen and (min-device-width: 992px) and (max-device-width: 1024px) { 
+.navbar-nav .nav-item button {
+    padding: 13px 9px;
+    font-size: 14px;
+}
+.navbar-light .navbar-nav .nav-link {
+    padding-left: 10px;
+    font-size: 14px;
+}
+ul.navbar-nav.ml-auto {
+    align-items: center;
+}
+.banner {
+    height: 600px;
+    padding-top: 50px;
+}
+.dog-friend {
+    max-width: 750px;
+}
+
+}
+
+@media screen and (min-device-width: 1025px) and (max-device-width: 1200px) { 
+.dog-eat-img img {
+    width: 100%;
+}
+
+.fast-about img {
+    width: 100%;
+}
+
+.footer-logo img {
+    width: 100%;
+}
+
+.bg-light {
+    height: auto;
+}
+
+ul.navbar-nav.ml-auto {
+    align-items: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding-left: 5px;
+    font-size: 15px;
+}
+
+.navbar-nav .nav-item button {
+    margin-left: 0;
+    padding: 13px 10px;
+}
+
+.banner {
+    height: 600px;
+    padding-top: 50px;
+}
+.dog-friend {
+    max-width: 800px;
+}
+
+.dog-friend h2 {
+    font-size: 30px;
+}
+
+.dog-treats {
+    margin-top: 80px;
+}
+
+.dog-eat h2 {
+    font-size: 30px;
+}
+
+.dog-eat p {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.dog-eat h3 {
+    font-size: 20px;
+}
+
+.dog-helps-list ul li h4 {
+    font-size: 16px;
+}
+
+.more-intelligent {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.intelligent-dogs h2 {
+    font-size: 20px;
+}
+
+.intelligent-dogs ul li p {
+    font-size: 16px;
+}
+
+.intelligent-bg {
+    padding: 25px;
+    margin-bottom: 30px;
+}
+
+.intelligent-bg ul li p {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.intelligent-bg ul li {
+    align-items: flex-start;
+}
+
+.why-brand h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.dog-owener {
+    padding-top: 50px;
+}
+
+.dog-xtylo h2 {
+    font-size: 25px;
+}
+
+.dog-xtylo p {
+    font-size: 16px;
+    margin: 0;
+}
+
+.dog-owener .row {
+    padding-bottom: 50px;
+}
+
+.in-nutshell {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.dog-nutshell p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.dog-nutshell h2 {
+    font-size: 20px;
+}
+
+.dog-nutshell h3 {
+    font-size: 30px;
+}
+
+.cat-food {
+    padding-top: 50px;
+}
+
+.cat-food-list h2 {
+    font-size: 30px;
+}
+
+.cat-food-list p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.cat-food-list h3 {
+    font-size: 20px;
+}
+
+.amazing-bg {
+    margin-top: 20px;
+    padding: 50px 0px;
+}
+
+.fast-about h2 {
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.fast-about p {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.leave-comment {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.comment-title h2 {
+    font-size: 30px;
+}
+
+.comment-title {
+    padding-bottom: 30px;
+}
+
+.comment-form textarea {
+    height: 80px;
+}
+
+button.btn.btn-dark.post-button {
+    padding: 15px 0;
+    font-size: 16px;
+}
+
+.footer-link ul li {
+    padding-bottom: 14px;
+}
+
+.footer-link h2 {
+    font-size: 18px;
+}
+
+.footer-logo .form-group {
+    margin-top: 20px;
+}
+
+.comment-title p {
+    font-size: 16px;
+}
+}
+
+@media screen and (min-device-width: 1201px) and (max-device-width: 1365px) { 
+.banner {
+    padding-top: 50px;
+}
+
+.dog-friend h2 {
+    font-size: 35px;
+}
+
+.dog-friend {
+    max-width: 900px;
+}
+
+.dog-treats {
+    margin-top: 112px;
+}
+
+.dog-eat h2 {
+    font-size: 35px;
+}
+
+.dog-eat p {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.dog-eat h3 {
+    font-size: 20px;
+}
+
+.dog-helps-list ul li h4 {
+    font-size: 16px;
+}
+
+.more-intelligent {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.intelligent-dogs h2 {
+    font-size: 20px;
+}
+
+.intelligent-dogs ul li p {
+    font-size: 16px;
+}
+
+.intelligent-bg ul li p {
+    font-size: 17px;
+}
+
+.intelligent-bg {
+    margin-bottom: 40px;
+}
+
+.why-brand h2 {
+    font-size: 20px;
+}
+
+.dog-owener {
+    padding-top: 70px;
+}
+
+.dog-xtylo h2 {
+    font-size: 30px;
+}
+
+.dog-xtylo p {
+    font-size: 16px;
+}
+
+.dog-owener .row {
+    padding-bottom: 60px;
+}
+
+.in-nutshell {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.dog-nutshell h2 {
+    font-size: 20px;
+}
+
+.dog-nutshell p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.dog-nutshell h3 {
+    font-size: 30px;
+}
+
+.cat-food {
+    padding-top: 50px;
+}
+
+.cat-food-list h2 {
+    font-size: 30px;
+}
+
+.cat-food-list p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.cat-food-list h3 {
+    font-size: 20px;
+}
+
+.amazing-bg {
+    padding: 50px 0px;
+    margin-top: 20px;
+}
+
+.fast-about h2 {
+    font-size: 30px;
+    line-height: 37px;
+}
+
+.fast-about p {
+    font-size: 16px;
+}
+
+.leave-comment {
+    padding-top: 50px;
+}
+
+.comment-title h2 {
+    font-size: 30px;
+}
+
+.comment-title p {
+    font-size: 16px;
+}
+
+.comment-title {
+    padding-bottom: 40px;
+}
+
+.comment-form textarea {
+    height: 100px;
+}
+
+button.btn.btn-dark.post-button {
+    padding: 15px 0;
+    font-size: 16px;
+}
+
+.footer-link ul li {
+    padding-bottom: 15px;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 15px;
+    padding-left: 20px;
+}
+.navbar-nav .nav-item button {
+    padding: 13px 20px;
+}
+.fast-about img {
+    width: 100%;
+}
+}
+
+@media screen and (min-device-width: 1366px) and (max-device-width: 1900px) { 
+.banner {
+    padding-top: 50px;
+}
+.navbar-nav .nav-item button {
+    padding: 13px 20px;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.dog-friend h2 {
+    font-size: 35px;
+}
+
+.dog-friend {
+    max-width: 900px;
+}
+
+.dog-treats {
+    margin-top: 112px;
+}
+
+.dog-eat h2 {
+    font-size: 35px;
+}
+
+.dog-eat p {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.dog-eat h3 {
+    font-size: 20px;
+}
+
+.dog-helps-list ul li h4 {
+    font-size: 16px;
+}
+
+.more-intelligent {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.intelligent-dogs h2 {
+    font-size: 20px;
+}
+
+.intelligent-dogs ul li p {
+    font-size: 16px;
+}
+
+.intelligent-bg ul li p {
+    font-size: 17px;
+}
+
+.intelligent-bg {
+    margin-bottom: 40px;
+}
+
+.why-brand h2 {
+    font-size: 20px;
+}
+
+.dog-owener {
+    padding-top: 70px;
+}
+
+.dog-xtylo h2 {
+    font-size: 30px;
+}
+
+.dog-xtylo p {
+    font-size: 16px;
+}
+
+.dog-owener .row {
+    padding-bottom: 60px;
+}
+
+.in-nutshell {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.dog-nutshell h2 {
+    font-size: 20px;
+}
+
+.dog-nutshell p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.dog-nutshell h3 {
+    font-size: 30px;
+}
+
+.cat-food {
+    padding-top: 50px;
+}
+
+.cat-food-list h2 {
+    font-size: 30px;
+}
+
+.cat-food-list p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.cat-food-list h3 {
+    font-size: 20px;
+}
+
+.amazing-bg {
+    padding: 50px 0px;
+    margin-top: 20px;
+}
+
+.fast-about h2 {
+    font-size: 30px;
+    line-height: 37px;
+}
+
+.fast-about p {
+    font-size: 16px;
+}
+
+.leave-comment {
+    padding-top: 50px;
+}
+
+.comment-title h2 {
+    font-size: 30px;
+}
+
+.comment-title p {
+    font-size: 16px;
+}
+
+.comment-title {
+    padding-bottom: 40px;
+}
+
+.comment-form textarea {
+    height: 100px;
+}
+
+button.btn.btn-dark.post-button {
+    padding: 15px 0;
+    font-size: 16px;
+}
+
+.footer-link ul li {
+    padding-bottom: 15px;
+}
+}

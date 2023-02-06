@@ -1,0 +1,12 @@
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /public/dog/
+RewriteBase /public/dog
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /public/dog/index.php [L]
+</IfModule>
+
+
