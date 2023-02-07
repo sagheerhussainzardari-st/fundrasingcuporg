@@ -9,7 +9,9 @@ use Symfony\Component\HttpFoundation\Response;
 use App\Http\Requests\funds\StoreFundRequest;
 use App\Http\Requests\funds\UpdateFundRequest;
 use App\Http\Requests\funds\MassDestroyFundRequest;
+use App\Models\User;
 use Gate;
+use Illuminate\Support\Facades\Log;
 
 class FundsController extends Controller
 {
@@ -71,6 +73,12 @@ class FundsController extends Controller
     public function show(Fund $fund)
     {
         $fund->load('category');
+        $user = User::find($fund->user_id);
+
+        if($user){
+            $fund->user = $user;
+        }
+
         return \response()->json($fund);
     }
 

@@ -51,6 +51,16 @@
                         </a>
                     </li>
                 @endcan
+                
+                {{-- @if(Auth::user()->roles[0]->title == "Admin")
+                    <li>
+                        <a href="{{ route('admin.funds.index') }}" class="waves-effect">
+                            <i class="bx bx-user"></i>
+                            <span>Users</span>
+                        </a>
+                    </li>
+                @endcan --}}
+                
                 @can('order_access')
                     <li>
                         <a href="{{ route('admin.orders.index') }}" class="waves-effect">

@@ -62,6 +62,7 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'namespace' => 'App\Http\Co
     // Update User Details
     Route::put('/update-profile/{user}', [App\Http\Controllers\HomeController::class, 'updateProfile'])->name('updateProfile');
     Route::get('/edit-profile', [App\Http\Controllers\HomeController::class, 'editProfile'])->name('editProfile');
+    Route::post('/{id}/updateBankDetails', [App\Http\Controllers\HomeController::class, 'updateBankDetails'])->name('updateBankDetails');
 
     Route::get('{any}', [App\Http\Controllers\HomeController::class, 'index'])->name('index');
 });

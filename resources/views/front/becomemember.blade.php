@@ -7,7 +7,7 @@
             <div class="container mt-5 pt-5">
                 <div class="row">
                     <div class="col-lg-5">
-                        <div class="mb-5">Step 1 to 3</div>
+                        <div class="mb-5">Step 1 to 4</div>
                         <h2>Let’s start with the basics</h2>
                         <p>
                             We're here to guide you through your fundraising journey.
@@ -94,7 +94,7 @@
                                                                       aria-hidden="true"></i>Back</a>
                                 </div>
                                 <div class="col-lg-3">
-                                    Step 2 to 3
+                                    Step 2 to 4
                                 </div>
                             </div>
 
@@ -150,7 +150,69 @@
                                                                       aria-hidden="true"></i>Back</a>
                                 </div>
                                 <div class="col-lg-3">
-                                    Step 3 to 3
+                                    Step 3 to 4
+                                </div>
+                            </div>
+
+                        </div>
+                        <h2>Enter Bank Details</h2>
+
+                    </div>
+                    <div class="col-lg-7 sign-up-form">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <label for="bank_title" class="form-label">Account Title?</label>
+                                <input required type="text" class="bg-transparent form-control py-3" id="bank_title"
+                                       name="bank_title" placeholder="Account Title">
+                                <p class="text-danger err-field d-none" id="bank_titleError">This Field Is Required</p>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <label for="bank_account_no" class="form-label">Account Number?</label>
+                                <input required type="number" class="bg-transparent form-control py-3" id="bank_account_no"
+                                       name="bank_account_no" placeholder="Account Number">
+                                <p class="text-danger err-field d-none" id="bank_account_noError">This Field Is Required</p>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <label for="bank_iban" class="form-label">IBAN?</label>
+                                <input required type="text" class="bg-transparent form-control py-3" id="bank_iban"
+                                       name="bank_iban" placeholder="IBAN">
+                                <p class="text-danger err-field d-none" id="bank_ibanError">This Field Is Required</p>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <label for="bank_swift" class="form-label">SWIFT?</label>
+                                <input required type="text" class="bg-transparent form-control py-3" id="bank_swift"
+                                       name="bank_swift" placeholder="SWIFT">
+                                <p class="text-danger err-field d-none" id="bank_swiftError">This Field Is Required</p>
+                            </div>
+                           
+                           
+                            <div class="col-lg-12 text-end mt-5">
+                                <button type="button" onclick="submitForm(3)"
+                                        class="startedBtn border-0 w-100">NEXT
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          
+        </section>
+        <section class="d-none" id="step4">
+            <div class="container mt-5 pt-5">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="mb-5">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3">
+                                    <a href="javascript:void(0)" onclick="goToPreviousStep(3)"
+                                       class="startedBtn border-0"><i class="fa fa-angle-left mx-2"
+                                                                      aria-hidden="true"></i>Back</a>
+                                </div>
+                                <div class="col-lg-3">
+                                    Step 4 to 4
                                 </div>
                             </div>
 
@@ -185,6 +247,7 @@
                             <div class="col-lg-8 text-end mt-5">
                                 <button type="submit" class="startedBtn border-0 w-100">Submit</button>
                             </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -197,6 +260,7 @@
         const stepOne = document.getElementById("step1")
         const stepTwo = document.getElementById("step2")
         const stepThree = document.getElementById("step3")
+        const stepFour = document.getElementById("step4")
 
         function submitForm(stepNumber) {
             if (stepNumber === 1) {
@@ -248,6 +312,48 @@
                 stepThree.classList.remove('d-none')
             }
             if (stepNumber === 3) {
+                if (document.getElementById('bank_title').value.trim().length === 0 ) {
+                    document.getElementById('bank_titleError').classList.remove('d-none')
+                    return false;
+                } else {
+                    document.getElementById('bank_titleError').classList.add('d-none')
+                }
+
+                if (document.getElementById('bank_account_no').value.trim().length === 0 ) {
+                    document.getElementById('bank_account_noError').classList.remove('d-none')
+                    return false;
+                } else {
+                    document.getElementById('bank_account_noError').classList.add('d-none')
+                }
+
+                if (document.getElementById('bank_iban').value.trim().length === 0 ) {
+                    document.getElementById('bank_ibanError').classList.remove('d-none')
+                    return false;
+                } else {
+                    document.getElementById('bank_ibanError').classList.add('d-none')
+                }
+
+                if (document.getElementById('bank_swift').value.trim().length === 0 ) {
+                    document.getElementById('bank_swiftError').classList.remove('d-none')
+                    return false;
+                } else {
+                    document.getElementById('bank_swiftError').classList.add('d-none')
+                }
+
+               
+                // if (document.getElementById('password').value.trim().length === 0) {
+                //     document.getElementById('passwordError').classList.remove('d-none')
+                //     return false;
+                // } else {
+                //     document.getElementById('passwordError').classList.add('d-none')
+                // }
+
+                stepOne.classList.add('d-none')
+                stepTwo.classList.add('d-none')
+                stepThree.classList.add('d-none')
+                stepFour.classList.remove('d-none')
+            }
+            if (stepNumber === 4) {
                 if (document.getElementById('email').value.trim().length === 0 || !ValidateEmail(document.getElementById('email').value)) {
                     document.getElementById('emailError').classList.remove('d-none')
                     return false;
@@ -260,6 +366,7 @@
                 } else {
                     document.getElementById('passwordError').classList.add('d-none')
                 }
+
             }
         }
 
@@ -278,11 +385,22 @@
                 stepOne.classList.remove('d-none')
                 stepTwo.classList.add('d-none')
                 stepThree.classList.add('d-none')
+                stepFour.classList.add('d-none')
+
             }
             if (previousStep == 2) {
                 stepOne.classList.add('d-none')
                 stepTwo.classList.remove('d-none')
                 stepThree.classList.add('d-none')
+                stepFour.classList.add('d-none')
+
+            }
+
+            if (previousStep == 3) {
+                stepOne.classList.add('d-none')
+                stepTwo.classList.add('d-none')
+                stepThree.classList.remove('d-none')
+                stepFour.classList.add('d-none')
             }
         }
     </script>

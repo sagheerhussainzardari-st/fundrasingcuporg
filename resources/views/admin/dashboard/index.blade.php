@@ -98,6 +98,59 @@
             <!-- end row -->
 
         </div>
+        @if(Auth::user()->roles[0]->title != "Admin")
+        <div class="col-xl-12">
+            <div class="row p-3">
+                <div class="card ">
+                    <div class="card-title mt-3">Bank Details</div>
+                    <form method="POST" action="/admin/{{Auth::user()->id}}/updateBankDetails" class="custom-validation"
+                        enctype="multipart/form-data">
+                      @csrf
+               
+                      <div class="row mt-3">
+                        <div class="mb-3 col-3">
+                            <label class="form-label">Bank Title</label>
+                            <input type="text" class="form-control" value="{{Auth::user()->bank_title}}" name="bank_title" id="bank_title" placeholder="Bank Title"/>
+                            @error('bank_title')
+                            @enderror
+                        </div>
+  
+                        <div class="mb-3 col-3">
+                          <label class="form-label">Account No</label>
+                          <input type="text" class="form-control" value="{{Auth::user()->bank_account_no}}" name="bank_account_no" id="bank_account_no" placeholder="Account Number"/>
+                          @error('bank_account_no')
+                          @enderror
+                      </div>
+  
+                      <div class="mb-3 col-3">
+                          <label class="form-label">IBAN</label>
+                          <input type="text" class="form-control" value="{{Auth::user()->bank_iban}}" name="bank_iban" id="bank_iban" placeholder="IBAN"/>
+                          @error('bank_iban')
+                          @enderror
+                      </div>
+  
+                      <div class="mb-3 col-3">
+                          <label class="form-label">SWIFT</label>
+                          <input type="text" class="form-control" value="{{Auth::user()->bank_swift}}" name="bank_swift" id="bank_swift" placeholder="SWIFT"/>
+                          @error('bank_swift')
+                          @enderror
+                      </div>
+                      </div>
+
+               
+                      <div class="d-flex flex-wrap gap-2 mb-3">
+                          <button type="submit" class="btn btn-primary waves-effect waves-light">
+                              Update
+                          </button>
+                      </div>
+                  </form>
+                </div>
+            </div>
+            <!-- end row -->
+
+        </div>
+        @endif
+        
     </div>
     <!-- end row -->
 

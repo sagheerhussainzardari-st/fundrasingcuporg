@@ -20,6 +20,10 @@ class HomeController extends Controller
 
     public function index(Request $request)
     {
+        // dd($request->path());
+        if($request->path() == "/admin/login"){
+            redirect("/admin");
+        }
         if (view()->exists($request->path())) {
             return view($request->path());
         }
@@ -94,5 +98,16 @@ class HomeController extends Controller
                 ], 200); // Status code here
             }
         }
+    }
+
+    function updateBankDetails(Request $request,$id){
+        $user = User::find($id);
+        $user->bank_title = $request->bank_title;
+        $user->bank_account_no = $request->bank_account_no;
+        $user->bank_iban = $request->bank_iban;
+        $user->bank_swift = $request->bank_swift;
+        $user->save();
+
+        return redirect()->back()->withToastSuccess('Bank Details Updated Successfully!');
     }
 }

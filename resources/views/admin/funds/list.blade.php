@@ -83,6 +83,22 @@
                                 <th>{{ucwords(str_replace('_',' ','description'))}}</th>
                                 <td id="description" align="center"></td>
                             </tr>
+                            <tr>
+                                <th>{{ucwords(str_replace('_',' ','bank title'))}}</th>
+                                <td id="bank_title" align="center"></td>
+                            </tr>
+                            <tr>
+                                <th>{{ucwords(str_replace('_',' ','account number'))}}</th>
+                                <td id="bank_account_no" align="center"></td>
+                            </tr>
+                            <tr>
+                                <th>{{ucwords(str_replace('_',' ','bank iban'))}}</th>
+                                <td id="bank_iban" align="center"></td>
+                            </tr>
+                            <tr>
+                                <th>{{ucwords(str_replace('_',' ','bank swift'))}}</th>
+                                <td id="bank_swift" align="center"></td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>
@@ -203,11 +219,17 @@
                     url: url.replace(':id',id),
                     dataType: "json",
                     success: function (data) {
+                        console.log(data);
                         document.getElementById('image').innerHTML = `<img alt="{{asset('')}}${data.image}" src="{{asset('')}}${data.image}" width="100" />`;
                         document.getElementById('category_name').innerText = data.category.name;
                         document.getElementById('name').innerText = data.name;
                         document.getElementById('amount').innerText = data.amount;
                         document.getElementById('description').innerText = data.description;
+                        document.getElementById('bank_title').innerText = data.user.bank_title;
+                        document.getElementById('bank_account_no').innerText = data.user.bank_account_no;
+                        document.getElementById('bank_iban').innerText = data.user.bank_iban;
+                        document.getElementById('bank_swift').innerText = data.user.bank_swift;
+                        
                         $("#viewModal").modal('show');
                     }
                 })

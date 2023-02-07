@@ -55,6 +55,10 @@ class RegisterController extends Controller
         $user = new User;
         $user->name = $request->name;
         $user->email = $request->email;
+        $user->bank_title = $request->bank_title;
+        $user->bank_account_no = $request->bank_account_no;
+        $user->bank_iban = $request->bank_iban;
+        $user->bank_swift = $request->bank_swift;
         $user->password = Hash::make($request->password);
         $user->save();
         $user->roles()->sync(3);
