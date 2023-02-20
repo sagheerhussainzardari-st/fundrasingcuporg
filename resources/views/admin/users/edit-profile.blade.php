@@ -51,19 +51,22 @@
                         <div class="mb-3">
                             <label class="form-label">{{ ucwords(str_replace('_',' ','dob')) }}</label>
                             <input type="date" class="form-control"
-                                   name="dob" id="dob" placeholder="{{ ucwords(str_replace('_',' ','dob')) }}" value="{{ old('dob', auth()->user()->dob ?? '') }}"/>
-                        </div>
+                                   name="dob" id="dob" placeholder="{{ ucwords(str_replace('_',' ','dob')) }}" value="{{ old('dob', auth()->user()->dob ?? '') }}" required/>
+                                   @error('dob')
+                                   <span class="text-red">{{ $message }}</span>
+                                   @enderror
+                                </div>
 
                         <div class="mb-3">
                             <label class="form-label">{{ ucwords(str_replace('_',' ','address')) }}</label>
-                            <textarea class="form-control" name="address" id="address" placeholder="{{ ucwords(str_replace('_',' ','address')) }}">{{ old('address', auth()->user()->address ?? '') }}</textarea>
+                            <textarea class="form-control" name="address" id="address" placeholder="{{ ucwords(str_replace('_',' ','address')) }}" required>{{ old('address', auth()->user()->address ?? '') }}</textarea>
                             @error('address')
                             <span class="text-red">{{ $message }}</span>
                             @enderror
                         </div>
 
                         <div class="mb-3">
-                            <input type="file" id="avatar" class="dropify" name="avatar" value="{{ old('avatar') }}" data-height="200">
+                            <input type="file" id="avatar" class="dropify" name="avatar" value="{{ old('avatar') }}" data-height="200" required>
                             @error('avatar')
                             <span class="text-red">{{ $message }}</span>
                             @enderror

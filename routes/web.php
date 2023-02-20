@@ -78,7 +78,12 @@ Route::get('donate/{fund}', [DonationController::class, 'index'])->name('donatio
 Route::post('donation', [DonationController::class, 'donationPost'])->name('donation.post');
 Route::get('discover', [App\Http\Controllers\Front\DiscoverController::class, 'index'])->name('discover');
 Route::get('/', [App\Http\Controllers\Front\HomeController::class, 'index'])->name('home.index');
+Route::get('contact-us', [DonationController::class, 'contact_us'])->name('contact_us');
+Route::post('/sendMessage', [App\Http\Controllers\Front\DiscoverController::class, 'sendMessage'])->name('sendMessage');
+
+
 Route::get('{any}', [App\Http\Controllers\Front\HomeController::class, 'home'])->name('home');
+
 
 //Language Translation
 Route::get('index/{locale}', [App\Http\Controllers\HomeController::class, 'lang']);

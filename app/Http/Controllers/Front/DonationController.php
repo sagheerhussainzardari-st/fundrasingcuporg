@@ -24,4 +24,8 @@ class DonationController extends Controller
             return back()->withErrors($e->getMessage());
         }
     }
+
+    public function contact_us(){
+        return view('front.contact-us');
+    }
 }

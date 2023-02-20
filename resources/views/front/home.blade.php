@@ -635,7 +635,8 @@
                     </div>
                 </div>
             </div>
-            <iframe src="https://www.youtube.com/embed/owAdDYMLqzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="1038" height="584" src="https://www.youtube.com/embed/ncZTxgkDTYU" title="fundraqisingcup org Ending TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            {{-- <iframe src="https://www.youtube.com/watch?v=ncZTxgkDTYU&ab_channel=FUNDRAISINGCUP.ORG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --}}
         </div>
     </div>
 </div>

@@ -277,7 +277,7 @@
          <p>
             Still need help? Just click the button below and we'll provide you with personalized support and connect you with one of our Customer Care agents if needed
          </p>
-         <a href="suggest.php" class="see-all">Get Help</a>
+         <a href="contact-us" class="see-all">Get Help</a>
       </div>
 
    </div>
