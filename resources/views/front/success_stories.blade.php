@@ -17,7 +17,7 @@
                     <div class="row mt-5">
                         <div class="col-lg-1"></div>
                         <div class="col-lg-3 m-auto">
-                            <a href="fund_detail.blade.php">
+                            <a href="/">
                                 <div class="card text-dark worldwideLeader bg-transparent border-0 pe-0 ps-0 pt-0">
                                     <img class="w-100" src="{{ asset('assets/front/Images/') }}/home/forAYourself.jpg"
                                          alt="Assets/Images/home/forAYourself.jpeg">
@@ -30,7 +30,7 @@
                             </a>
                         </div>
                         <div class="col-lg-3 m-auto">
-                            <a href="fund_detail.blade.php">
+                            <a href="/">
                                 <div class="card text-dark worldwideLeader bg-transparent border-0 pe-0 ps-0 pt-0">
                                     <img class="w-100" src="{{ asset('assets/front/Images/') }}/home/forAFriend.jpg"
                                          alt="Assets/Images/home/forAFriend.jpg">
@@ -43,7 +43,7 @@
                             </a>
                         </div>
                         <div class="col-lg-3 m-auto">
-                            <a href="fund_detail.blade.php">
+                            <a href="/">
                                 <div class="card text-dark worldwideLeader bg-transparent border-0 pe-0 ps-0 pt-0">
                                     <img class="w-100" src="{{ asset('assets/front/Images/') }}/home/forACharity.jpg"
                                          alt="Assets/Images/home/forACharity.jpg">

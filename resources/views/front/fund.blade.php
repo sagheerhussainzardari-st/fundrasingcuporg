@@ -259,7 +259,7 @@
                     </h5>
                     <div class="col-lg-4 m-auto">
                         <div class="loadMore">
-                            <a class="shadow" href="/about_us">Contact us</a>
+                            <a class="shadow" href="/contact-us">Contact us</a>
                         </div>
                     </div>
                 </div>

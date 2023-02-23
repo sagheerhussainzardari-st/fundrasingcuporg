@@ -26,8 +26,8 @@ class DiscoverController extends Controller
         
         session(['user_send_message' => $user]);
 
-        Mail::to("sagheer@shottechnologies.co")->send(new SendEmail());
+        Mail::to("info@fundraisingcup.org")->send(new SendEmail());
         
-        // return redirect("/contact-us");
+        return redirect("/");
     }
 }

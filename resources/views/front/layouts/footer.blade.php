@@ -344,7 +344,7 @@
                         <a href="https://fundraisingcup.org/blog/">Blog</a>
                     </li>
                     <li>
-                        <a href="javascript:void(0)">Press center</a>
+                        <a href="/">Press center</a>
                     </li>
                     <li>
                         <a href="{{ url('careers') }}">Careers</a>

@@ -7,8 +7,8 @@
     <section class="discoverSection01 pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 m-auto">
-                    <H1>Contact US!</H1>
+                <div class="col-lg-6 mt-5">
+                    <H1 class="mt-5">Contact US!</H1>
                     <p>For General inquiries or Technical support</p>
                     <p>For media relations or the prayer line 
                         contact us @ 
@@ -49,7 +49,7 @@
 
                         <div class="mb-3">
                             <label class="form-label">Message</label>
-                            <input type="text" class="form-control " name="message" id="message"   required/>
+                            <textarea type="text" class="form-control " name="message" id="message" rows="4"   required> </textarea>
                         </div>
                         <div class="mb-3">
                             <label class="form-label">Country</label>
