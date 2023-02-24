@@ -7,7 +7,7 @@
                         <a class="nav-link" href="javascript:void(0)" onclick="searchBarActive()"><i class="fas fa-search"></i></a>
                     </li>
                     <li class="nav-item">
-                        <a class="navbar-brand m-auto" href="{{ route('home.index') }}"><img class="w-100"
+                        <a class="navbar-brand m-auto" href="{{ route('home.index') }}"><img class="w-50"
                                                                              src="{{ asset($setting->logo) }}"
                                                                              alt="{{ asset($setting->logo) }}"></a>
                     </li>
@@ -40,7 +40,7 @@
             </li>
             <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
                 <ul class="navbar-nav m-auto">
-                    <a class="navbar-brand m-auto" href="{{ route('home.index') }}"><img class="w-100"
+                    <a class="navbar-brand m-auto" href="{{ route('home.index') }}"><img class="w-50"
                                                                          src="{{ asset($setting->logo) }}"
                                                                          alt="{{ asset($setting->logo) }}"></a>
                     <li class="nav-item searchLi">
