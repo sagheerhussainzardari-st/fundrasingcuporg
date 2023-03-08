@@ -2,7 +2,7 @@
 @section('title') About Us @endsection
 @section('content')
     @component('front.components.breadcrumb')
-        @slot('title') About start fundraising @endslot
+        @slot('title') About Us @endslot
         @slot('description') Fundraisingcup.org Ministry is a Non profit donation-based
 funding organization aimed to supporting women and
 children in need. The mission of Fundraisingcup.org is to

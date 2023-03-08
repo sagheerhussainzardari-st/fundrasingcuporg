@@ -347,7 +347,7 @@
                         <a href="/blog/">Press center</a>
                     </li>
                     <li>
-                        <a href="{{ url('careers') }}">Careers</a>
+                        <a href="/careers_page">Careers</a>
                     </li>
                     <li>
                         <a href="{{ url('about_us') }}">About</a>
