@@ -10,7 +10,7 @@
             <div class="row m-1">
 
                 @foreach ($careers as $career)
-                <div class=" col-3 card text-white bg-dark border-light  " >
+                <div class=" col-6 card text-white bg-dark border-light  " >
                     <div class="card-body">
                     <h5 class="card-title text-center">{{$career->name}}</h5>
                     </div>
