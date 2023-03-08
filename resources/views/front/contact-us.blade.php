@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-lg-6 mt-5">
                     <H1 class="mt-5">Contact US!</H1>
-                    <p>For General inquiries or Technical support</p>
+
                     <p>For media relations or the prayer line 
                         contact us @ 
                         <br>
@@ -17,7 +17,7 @@
                         phone: 877-246-1984
                         <br>
                         
-                        email: Info@fundfraisingcup.org
+                        email: info@fundraisingcup.org
                         </p>
                 </div>
                 <div class="col-lg-6 mt-5 mb-5 pt-5">
@@ -27,6 +27,7 @@
 
                         <div class="mb-3">
                             <div class="mb-3">
+                                                    <p>For General inquiries or Technical support</p>
                                 <label class="form-label">First Name</label>
                                 <input type="text" class="form-control " name="first_name" id="first_name" placeholder=""  required/>
                             </div>   

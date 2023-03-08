@@ -22,7 +22,7 @@
                             <div class="verticalLine"></div>
                         </div>
                         <div class="col-lg-6 p-0">
-                            <a class="seeHowfundlyworks" href="/becomemember" data-bs-toggle="modal" data-bs-target="#how-start-fund-raising-works"><i class="far fa-play-circle me-2"></i> See how start fundraising works</a>
+                            <a class="seeHowfundlyworks" target="_blank" href="https://www.youtube.com/watch?v=ncZTxgkDTYU&ab_channel=FUNDRAISINGCUP.ORG" data-bs-toggle="modal" data-bs-target="#how-start-fund-raising-works"><i class="far fa-play-circle me-2"></i> See how start fundraising works</a>
                         </div>
                     </div>
                 </div>
@@ -636,7 +636,7 @@
                 </div>
             </div>
             <iframe width="1038" height="584" src="https://www.youtube.com/embed/ncZTxgkDTYU" title="fundraqisingcup org Ending TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            {{-- <iframe src="https://www.youtube.com/watch?v=ncZTxgkDTYU&ab_channel=FUNDRAISINGCUP.ORG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --}}
+            <!--<iframe src="https://www.youtube.com/embed/ncZTxgkDTYUORG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
         </div>
     </div>
 </div>

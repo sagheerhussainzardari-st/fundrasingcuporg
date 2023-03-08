@@ -3,7 +3,20 @@
 @section('content')
     @component('front.components.breadcrumb')
         @slot('title') About start fundraising @endslot
-        @slot('description') There’s a part of every one of us that dreams of a better world. That spark of inspiration to help a person, fix a neighborhood, or even change a nation. At Start Fundraising, we believe your inspiration should be shared with everyone. Because that is how change happens. That’s why we make it easy to inspire the world and turn compassion into action. By giving people the tools they need to capture and share their story far and wide, we have built a community of more than 50 million donors and helped organizers raise over $5 billion—and we are just getting started. @endslot
+        @slot('description') Fundraisingcup.org Ministry is a Non profit donation-based
+funding organization aimed to supporting women and
+children in need. The mission of Fundraisingcup.org is to
+empower local community programs to support the health
+and quality of life of women and children so that no one is
+left hungry or isolated. We are excited to welcome our new
+Marketing, Communications Coordinator,
+who will help us accomplish our goals of raising funds for
+local women shelters and children in need of supplies. We
+created our platform to help the people who require
+assistance globally. Whether that's people suffering from
+disasters in Haiti or famine in Africa, we've got plans to aid
+them. We believe many people in this world want to make a
+palpable change.  @endslot
     @endcomponent
 <section>
    <div class="container">

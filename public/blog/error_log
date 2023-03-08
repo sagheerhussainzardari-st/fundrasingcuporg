@@ -1034,3 +1034,1164 @@
 [14-Jun-2022 08:59:46 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
 [14-Jun-2022 08:59:46 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
 [14-Jun-2022 08:59:46 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[14-Feb-2023 20:08:11 UTC] FB :: post published, clearing cache
+[14-Feb-2023 20:08:11 UTC] FB :: excluding '/comments/feed/'
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[14-Feb-2023 20:08:11 UTC] FB :: excluding '/category/'
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[14-Feb-2023 20:08:11 UTC] FB :: excluding '/author/'
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[14-Feb-2023 20:08:11 UTC] FB :: excluding '/feed/'
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/atom/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[14-Feb-2023 20:08:11 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[14-Feb-2023 20:08:11 UTC] FB :: batch clearing 7 urls
+[14-Feb-2023 20:08:11 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/you-can-win-with-jesus/
+[14-Feb-2023 20:08:11 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[14-Feb-2023 20:08:12 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[14-Feb-2023 20:08:12 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[14-Feb-2023 20:08:12 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[14-Feb-2023 20:08:13 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[14-Feb-2023 20:08:13 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[14-Feb-2023 20:18:14 UTC] FB :: post published, clearing cache
+[14-Feb-2023 20:18:14 UTC] FB :: excluding '/comments/feed/'
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[14-Feb-2023 20:18:14 UTC] FB :: excluding '/category/'
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[14-Feb-2023 20:18:14 UTC] FB :: excluding '/author/'
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[14-Feb-2023 20:18:14 UTC] FB :: excluding '/feed/'
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/atom/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[14-Feb-2023 20:18:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[14-Feb-2023 20:18:14 UTC] FB :: batch clearing 7 urls
+[14-Feb-2023 20:18:14 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/you-can-win-with-jesus/
+[14-Feb-2023 20:18:15 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[14-Feb-2023 20:18:15 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[14-Feb-2023 20:18:15 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[14-Feb-2023 20:18:15 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[14-Feb-2023 20:18:16 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[14-Feb-2023 20:18:16 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[15-Feb-2023 17:05:59 UTC] FB :: post published, clearing cache
+[15-Feb-2023 17:05:59 UTC] FB :: excluding '/comments/feed/'
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[15-Feb-2023 17:05:59 UTC] FB :: excluding '/category/'
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[15-Feb-2023 17:05:59 UTC] FB :: excluding '/author/'
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[15-Feb-2023 17:05:59 UTC] FB :: excluding '/feed/'
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/feed/atom/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/feed/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[15-Feb-2023 17:05:59 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[15-Feb-2023 17:05:59 UTC] FB :: batch clearing 7 urls
+[15-Feb-2023 17:05:59 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/
+[15-Feb-2023 17:05:59 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[15-Feb-2023 17:06:00 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[15-Feb-2023 17:06:00 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[15-Feb-2023 17:06:00 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[15-Feb-2023 17:06:01 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[15-Feb-2023 17:06:01 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[15-Feb-2023 17:07:54 UTC] FB :: post published, clearing cache
+[15-Feb-2023 17:07:54 UTC] FB :: excluding '/comments/feed/'
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[15-Feb-2023 17:07:54 UTC] FB :: excluding '/category/'
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[15-Feb-2023 17:07:54 UTC] FB :: excluding '/author/'
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[15-Feb-2023 17:07:54 UTC] FB :: excluding '/feed/'
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/women-health/feed/atom/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/women-health/feed/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[15-Feb-2023 17:07:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[15-Feb-2023 17:07:54 UTC] FB :: batch clearing 7 urls
+[15-Feb-2023 17:07:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/women-health/
+[15-Feb-2023 17:07:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[15-Feb-2023 17:07:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[15-Feb-2023 17:07:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[15-Feb-2023 17:07:56 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[15-Feb-2023 17:07:56 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[15-Feb-2023 17:07:56 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[15-Feb-2023 17:08:53 UTC] FB :: post published, clearing cache
+[15-Feb-2023 17:08:53 UTC] FB :: excluding '/comments/feed/'
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[15-Feb-2023 17:08:53 UTC] FB :: excluding '/category/'
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/family-health/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/family-health/feed/atom/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/family-health/feed/
+[15-Feb-2023 17:08:53 UTC] FB :: excluding '/author/'
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[15-Feb-2023 17:08:53 UTC] FB :: excluding '/feed/'
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/stress-self-esteem-reaching-out-for-help/feed/atom/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/stress-self-esteem-reaching-out-for-help/feed/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[15-Feb-2023 17:08:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[15-Feb-2023 17:08:53 UTC] FB :: batch clearing 7 urls
+[15-Feb-2023 17:08:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/stress-self-esteem-reaching-out-for-help/
+[15-Feb-2023 17:08:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[15-Feb-2023 17:08:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[15-Feb-2023 17:08:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[15-Feb-2023 17:08:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[15-Feb-2023 17:08:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[15-Feb-2023 17:08:56 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 01:29:57 UTC] FB :: post published, clearing cache
+[19-Feb-2023 01:29:57 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 01:29:57 UTC] FB :: excluding '/category/'
+[19-Feb-2023 01:29:57 UTC] FB :: excluding '/author/'
+[19-Feb-2023 01:29:57 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 01:29:57 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 01:29:57 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 01:29:57 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 01:29:57 UTC] FB :: batch clearing 3 urls
+[19-Feb-2023 01:29:57 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/video-blog/
+[19-Feb-2023 01:29:57 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 01:29:57 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:00:00 UTC] FB :: post published, clearing cache
+[19-Feb-2023 02:00:00 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 02:00:00 UTC] FB :: excluding '/category/'
+[19-Feb-2023 02:00:00 UTC] FB :: excluding '/author/'
+[19-Feb-2023 02:00:00 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 02:00:00 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 02:00:00 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 02:00:00 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 02:00:00 UTC] FB :: batch clearing 3 urls
+[19-Feb-2023 02:00:00 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/video-blog/
+[19-Feb-2023 02:00:01 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:00:01 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:12:32 UTC] FB :: post published, clearing cache
+[19-Feb-2023 02:12:32 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 02:12:32 UTC] FB :: excluding '/category/'
+[19-Feb-2023 02:12:32 UTC] FB :: excluding '/author/'
+[19-Feb-2023 02:12:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 02:12:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 02:12:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 02:12:32 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 02:12:32 UTC] FB :: batch clearing 3 urls
+[19-Feb-2023 02:12:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/video-blog/
+[19-Feb-2023 02:12:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:12:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:22:09 UTC] FB :: post published, clearing cache
+[19-Feb-2023 02:22:09 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 02:22:09 UTC] FB :: excluding '/category/'
+[19-Feb-2023 02:22:09 UTC] FB :: excluding '/author/'
+[19-Feb-2023 02:22:09 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 02:22:09 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 02:22:09 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 02:22:09 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 02:22:09 UTC] FB :: batch clearing 3 urls
+[19-Feb-2023 02:22:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/video-blog/
+[19-Feb-2023 02:22:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:22:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:46:36 UTC] FB :: post published, clearing cache
+[19-Feb-2023 02:46:36 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 02:46:36 UTC] FB :: excluding '/category/'
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[19-Feb-2023 02:46:36 UTC] FB :: excluding '/author/'
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 02:46:36 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/feed/atom/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/feed/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 02:46:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 02:46:36 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 02:46:37 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/
+[19-Feb-2023 02:46:37 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 02:46:37 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:46:37 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:46:37 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 02:46:37 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 02:46:38 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 02:55:10 UTC] FB :: post published, clearing cache
+[19-Feb-2023 02:55:10 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 02:55:10 UTC] FB :: excluding '/category/'
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[19-Feb-2023 02:55:10 UTC] FB :: excluding '/author/'
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 02:55:10 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/atom/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 02:55:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 02:55:10 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 02:55:10 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/you-can-win-with-jesus/
+[19-Feb-2023 02:55:10 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 02:55:10 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:55:11 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:55:11 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 02:55:11 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 02:55:11 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 02:59:52 UTC] FB :: post published, clearing cache
+[19-Feb-2023 02:59:52 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 02:59:52 UTC] FB :: excluding '/category/'
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[19-Feb-2023 02:59:52 UTC] FB :: excluding '/author/'
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 02:59:52 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/atom/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 02:59:52 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 02:59:52 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 02:59:52 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/you-can-win-with-jesus/
+[19-Feb-2023 02:59:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 02:59:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:59:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 02:59:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 02:59:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 02:59:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 03:01:14 UTC] FB :: post published, clearing cache
+[19-Feb-2023 03:01:14 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 03:01:14 UTC] FB :: excluding '/category/'
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[19-Feb-2023 03:01:14 UTC] FB :: excluding '/author/'
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 03:01:14 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/atom/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:54: https://fundraisingcup.org/blog/you-can-win-with-jesus/feed/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 03:01:14 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 03:01:14 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 03:01:14 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/you-can-win-with-jesus/
+[19-Feb-2023 03:01:14 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 03:01:14 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:01:14 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:01:15 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 03:01:15 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 03:01:15 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 03:06:10 UTC] FB :: post published, clearing cache
+[19-Feb-2023 03:06:10 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 03:06:10 UTC] FB :: excluding '/category/'
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[19-Feb-2023 03:06:10 UTC] FB :: excluding '/author/'
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 03:06:10 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 03:06:10 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 03:06:10 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 03:06:10 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[19-Feb-2023 03:06:10 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 03:06:10 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:06:10 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:06:10 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 03:06:11 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[19-Feb-2023 03:06:11 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[19-Feb-2023 03:10:16 UTC] FB :: post published, clearing cache
+[19-Feb-2023 03:10:16 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 03:10:16 UTC] FB :: excluding '/category/'
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[19-Feb-2023 03:10:16 UTC] FB :: excluding '/author/'
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 03:10:16 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 03:10:16 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 03:10:16 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 03:10:17 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[19-Feb-2023 03:10:17 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 03:10:17 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:10:17 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:10:17 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 03:10:17 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[19-Feb-2023 03:10:17 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[19-Feb-2023 03:12:23 UTC] FB :: post published, clearing cache
+[19-Feb-2023 03:12:23 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 03:12:23 UTC] FB :: excluding '/category/'
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[19-Feb-2023 03:12:23 UTC] FB :: excluding '/author/'
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 03:12:23 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 03:12:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 03:12:23 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 03:12:23 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[19-Feb-2023 03:12:23 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 03:12:23 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:12:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:12:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 03:12:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[19-Feb-2023 03:12:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[19-Feb-2023 03:19:53 UTC] FB :: post published, clearing cache
+[19-Feb-2023 03:19:53 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 03:19:53 UTC] FB :: excluding '/category/'
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[19-Feb-2023 03:19:53 UTC] FB :: excluding '/author/'
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 03:19:53 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:59: https://fundraisingcup.org/blog/how-what-why-when-where-who/feed/atom/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:59: https://fundraisingcup.org/blog/how-what-why-when-where-who/feed/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 03:19:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 03:19:53 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 03:19:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/how-what-why-when-where-who/
+[19-Feb-2023 03:19:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 03:19:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:19:53 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:19:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 03:19:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 03:19:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 03:22:08 UTC] FB :: post published, clearing cache
+[19-Feb-2023 03:22:08 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 03:22:08 UTC] FB :: excluding '/category/'
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/atom/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/uncategorized/feed/
+[19-Feb-2023 03:22:08 UTC] FB :: excluding '/author/'
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 03:22:08 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:59: https://fundraisingcup.org/blog/how-what-why-when-where-who/feed/atom/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:59: https://fundraisingcup.org/blog/how-what-why-when-where-who/feed/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 03:22:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 03:22:08 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 03:22:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/how-what-why-when-where-who/
+[19-Feb-2023 03:22:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 03:22:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:22:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 03:22:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 03:22:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 03:22:10 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 06:57:42 UTC] FB :: post published, clearing cache
+[19-Feb-2023 06:57:42 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 06:57:42 UTC] FB :: excluding '/category/'
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[19-Feb-2023 06:57:42 UTC] FB :: excluding '/author/'
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 06:57:42 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/women-health/feed/atom/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/women-health/feed/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 06:57:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 06:57:42 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 06:57:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/women-health/
+[19-Feb-2023 06:57:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 06:57:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 06:57:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 06:57:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 06:57:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 06:57:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 14:42:27 UTC] FB :: post published, clearing cache
+[19-Feb-2023 14:42:27 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 14:42:27 UTC] FB :: excluding '/category/'
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[19-Feb-2023 14:42:27 UTC] FB :: excluding '/author/'
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 14:42:27 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/feed/atom/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/feed/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 14:42:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 14:42:27 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 14:42:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/
+[19-Feb-2023 14:42:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 14:42:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 14:42:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 14:42:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 14:42:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 14:42:28 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 14:43:34 UTC] FB :: post published, clearing cache
+[19-Feb-2023 14:43:34 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluding '/category/'
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/family-health/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/family-health/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/family-health/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluding '/author/'
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/26-best-foods/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/26-best-foods/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:45: https://fundraisingcup.org/blog/tag/best-food/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:45: https://fundraisingcup.org/blog/tag/best-food/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:46: https://fundraisingcup.org/blog/tag/best-foods/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:46: https://fundraisingcup.org/blog/tag/best-foods/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:42: https://fundraisingcup.org/blog/tag/recipe/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:42: https://fundraisingcup.org/blog/tag/recipe/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/tag/stock-up/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/tag/stock-up/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/tag/survival/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/tag/survival/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:72: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 14:43:34 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 14:43:34 UTC] FB :: batch clearing 13 urls
+[19-Feb-2023 14:43:34 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/26-best-food-for-survival-to-stock-up-on/
+[19-Feb-2023 14:43:34 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 14:43:34 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/26-best-foods/
+[19-Feb-2023 14:43:34 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/best-food/
+[19-Feb-2023 14:43:35 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/best-foods/
+[19-Feb-2023 14:43:35 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/recipe/
+[19-Feb-2023 14:43:35 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/stock-up/
+[19-Feb-2023 14:43:35 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/survival/
+[19-Feb-2023 14:43:35 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 14:43:35 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 14:43:35 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 14:43:35 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 14:43:35 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 16:07:50 UTC] FB :: post published, clearing cache
+[19-Feb-2023 16:07:50 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 16:07:50 UTC] FB :: excluding '/category/'
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[19-Feb-2023 16:07:50 UTC] FB :: excluding '/author/'
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 16:07:50 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 16:07:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 16:07:50 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 16:07:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[19-Feb-2023 16:07:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 16:07:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 16:07:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 16:07:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 16:07:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[19-Feb-2023 16:07:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[19-Feb-2023 16:19:36 UTC] FB :: post published, clearing cache
+[19-Feb-2023 16:19:36 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 16:19:36 UTC] FB :: excluding '/category/'
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[19-Feb-2023 16:19:36 UTC] FB :: excluding '/author/'
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 16:19:36 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 16:19:36 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 16:19:36 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 16:19:36 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[19-Feb-2023 16:19:36 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 16:19:36 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 16:19:36 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 16:19:37 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 16:19:37 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[19-Feb-2023 16:19:37 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[19-Feb-2023 16:41:42 UTC] FB :: post published, clearing cache
+[19-Feb-2023 16:41:42 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 16:41:42 UTC] FB :: excluding '/category/'
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[19-Feb-2023 16:41:42 UTC] FB :: excluding '/author/'
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 16:41:42 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/atom/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 16:41:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 16:41:42 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 16:41:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs-old/
+[19-Feb-2023 16:41:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 16:41:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 16:41:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 16:41:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 16:41:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[19-Feb-2023 16:41:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[19-Feb-2023 16:44:05 UTC] FB :: post published, clearing cache
+[19-Feb-2023 16:44:05 UTC] FB :: excluding '/comments/feed/'
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[19-Feb-2023 16:44:05 UTC] FB :: excluding '/category/'
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[19-Feb-2023 16:44:05 UTC] FB :: excluding '/author/'
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[19-Feb-2023 16:44:05 UTC] FB :: excluding '/feed/'
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[19-Feb-2023 16:44:05 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[19-Feb-2023 16:44:05 UTC] FB :: batch clearing 7 urls
+[19-Feb-2023 16:44:05 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[19-Feb-2023 16:44:05 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[19-Feb-2023 16:44:05 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 16:44:06 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[19-Feb-2023 16:44:06 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[19-Feb-2023 16:44:06 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[19-Feb-2023 16:44:06 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[20-Feb-2023 02:37:27 UTC] FB :: post published, clearing cache
+[20-Feb-2023 02:37:27 UTC] FB :: excluding '/comments/feed/'
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[20-Feb-2023 02:37:27 UTC] FB :: excluding '/category/'
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[20-Feb-2023 02:37:27 UTC] FB :: excluding '/author/'
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[20-Feb-2023 02:37:27 UTC] FB :: excluding '/feed/'
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[20-Feb-2023 02:37:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[20-Feb-2023 02:37:27 UTC] FB :: batch clearing 7 urls
+[20-Feb-2023 02:37:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[20-Feb-2023 02:37:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[20-Feb-2023 02:37:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[20-Feb-2023 02:37:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[20-Feb-2023 02:37:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[20-Feb-2023 02:37:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[20-Feb-2023 02:37:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[20-Feb-2023 02:41:32 UTC] FB :: post published, clearing cache
+[20-Feb-2023 02:41:32 UTC] FB :: excluding '/comments/feed/'
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[20-Feb-2023 02:41:32 UTC] FB :: excluding '/category/'
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[20-Feb-2023 02:41:32 UTC] FB :: excluding '/author/'
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[20-Feb-2023 02:41:32 UTC] FB :: excluding '/feed/'
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[20-Feb-2023 02:41:32 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[20-Feb-2023 02:41:32 UTC] FB :: batch clearing 7 urls
+[20-Feb-2023 02:41:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[20-Feb-2023 02:41:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[20-Feb-2023 02:41:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[20-Feb-2023 02:41:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[20-Feb-2023 02:41:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[20-Feb-2023 02:41:33 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[20-Feb-2023 02:41:33 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[20-Feb-2023 03:14:08 UTC] FB :: post published, clearing cache
+[20-Feb-2023 03:14:08 UTC] FB :: excluding '/comments/feed/'
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[20-Feb-2023 03:14:08 UTC] FB :: excluding '/category/'
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[20-Feb-2023 03:14:08 UTC] FB :: excluding '/author/'
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[20-Feb-2023 03:14:08 UTC] FB :: excluding '/feed/'
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[20-Feb-2023 03:14:08 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[20-Feb-2023 03:14:08 UTC] FB :: batch clearing 7 urls
+[20-Feb-2023 03:14:08 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[20-Feb-2023 03:14:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[20-Feb-2023 03:14:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[20-Feb-2023 03:14:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[20-Feb-2023 03:14:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[20-Feb-2023 03:14:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[20-Feb-2023 03:14:09 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[20-Feb-2023 03:19:27 UTC] FB :: post published, clearing cache
+[20-Feb-2023 03:19:27 UTC] FB :: excluding '/comments/feed/'
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[20-Feb-2023 03:19:27 UTC] FB :: excluding '/category/'
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[20-Feb-2023 03:19:27 UTC] FB :: excluding '/author/'
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[20-Feb-2023 03:19:27 UTC] FB :: excluding '/feed/'
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[20-Feb-2023 03:19:27 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[20-Feb-2023 03:19:27 UTC] FB :: batch clearing 7 urls
+[20-Feb-2023 03:19:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[20-Feb-2023 03:19:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[20-Feb-2023 03:19:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[20-Feb-2023 03:19:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[20-Feb-2023 03:19:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[20-Feb-2023 03:19:28 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[20-Feb-2023 03:19:28 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[21-Feb-2023 03:52:53 UTC] FB :: post published, clearing cache
+[21-Feb-2023 03:52:53 UTC] FB :: excluding '/comments/feed/'
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[21-Feb-2023 03:52:53 UTC] FB :: excluding '/category/'
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[21-Feb-2023 03:52:53 UTC] FB :: excluding '/author/'
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[21-Feb-2023 03:52:53 UTC] FB :: excluding '/feed/'
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/atom/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/atom/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/atom/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/atom/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/atom/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[21-Feb-2023 03:52:53 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[21-Feb-2023 03:52:53 UTC] FB :: batch clearing 11 urls
+[21-Feb-2023 03:52:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs-old/
+[21-Feb-2023 03:52:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[21-Feb-2023 03:52:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dog/
+[21-Feb-2023 03:52:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dogs/
+[21-Feb-2023 03:52:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dos-and-donts/
+[21-Feb-2023 03:52:54 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/mans-best-friend/
+[21-Feb-2023 03:52:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 03:52:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 03:52:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[21-Feb-2023 03:52:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[21-Feb-2023 03:52:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[21-Feb-2023 04:11:56 UTC] FB :: post published, clearing cache
+[21-Feb-2023 04:11:56 UTC] FB :: excluding '/comments/feed/'
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[21-Feb-2023 04:11:56 UTC] FB :: excluding '/category/'
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[21-Feb-2023 04:11:56 UTC] FB :: excluding '/author/'
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[21-Feb-2023 04:11:56 UTC] FB :: excluding '/feed/'
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/atom/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/atom/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/atom/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/atom/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/atom/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[21-Feb-2023 04:11:56 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[21-Feb-2023 04:11:56 UTC] FB :: batch clearing 11 urls
+[21-Feb-2023 04:11:57 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs-old/
+[21-Feb-2023 04:11:57 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[21-Feb-2023 04:11:57 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dog/
+[21-Feb-2023 04:11:57 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dogs/
+[21-Feb-2023 04:11:57 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dos-and-donts/
+[21-Feb-2023 04:11:57 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/mans-best-friend/
+[21-Feb-2023 04:11:58 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:11:58 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:11:58 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[21-Feb-2023 04:11:58 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[21-Feb-2023 04:11:58 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[21-Feb-2023 04:23:54 UTC] FB :: post published, clearing cache
+[21-Feb-2023 04:23:54 UTC] FB :: excluding '/comments/feed/'
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[21-Feb-2023 04:23:54 UTC] FB :: excluding '/category/'
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[21-Feb-2023 04:23:54 UTC] FB :: excluding '/author/'
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[21-Feb-2023 04:23:54 UTC] FB :: excluding '/feed/'
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[21-Feb-2023 04:23:54 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[21-Feb-2023 04:23:54 UTC] FB :: batch clearing 7 urls
+[21-Feb-2023 04:23:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[21-Feb-2023 04:23:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[21-Feb-2023 04:23:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:23:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:23:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[21-Feb-2023 04:23:55 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[21-Feb-2023 04:23:56 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[21-Feb-2023 04:24:26 UTC] FB :: post published, clearing cache
+[21-Feb-2023 04:24:26 UTC] FB :: excluding '/comments/feed/'
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[21-Feb-2023 04:24:26 UTC] FB :: excluding '/category/'
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[21-Feb-2023 04:24:26 UTC] FB :: excluding '/author/'
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[21-Feb-2023 04:24:26 UTC] FB :: excluding '/feed/'
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[21-Feb-2023 04:24:26 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[21-Feb-2023 04:24:26 UTC] FB :: batch clearing 7 urls
+[21-Feb-2023 04:24:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[21-Feb-2023 04:24:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[21-Feb-2023 04:24:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:24:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:24:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[21-Feb-2023 04:24:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[21-Feb-2023 04:24:27 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[21-Feb-2023 04:26:46 UTC] FB :: post published, clearing cache
+[21-Feb-2023 04:26:46 UTC] FB :: excluding '/comments/feed/'
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[21-Feb-2023 04:26:46 UTC] FB :: excluding '/category/'
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[21-Feb-2023 04:26:46 UTC] FB :: excluding '/author/'
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[21-Feb-2023 04:26:46 UTC] FB :: excluding '/feed/'
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[21-Feb-2023 04:26:46 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[21-Feb-2023 04:26:46 UTC] FB :: batch clearing 7 urls
+[21-Feb-2023 04:26:46 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[21-Feb-2023 04:26:47 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[21-Feb-2023 04:26:47 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:26:47 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:26:47 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[21-Feb-2023 04:26:47 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[21-Feb-2023 04:26:47 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[21-Feb-2023 04:27:20 UTC] FB :: post published, clearing cache
+[21-Feb-2023 04:27:20 UTC] FB :: excluding '/comments/feed/'
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[21-Feb-2023 04:27:20 UTC] FB :: excluding '/category/'
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[21-Feb-2023 04:27:20 UTC] FB :: excluding '/author/'
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[21-Feb-2023 04:27:20 UTC] FB :: excluding '/feed/'
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/atom/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:36: https://fundraisingcup.org/blog/dogs/feed/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[21-Feb-2023 04:27:20 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[21-Feb-2023 04:27:20 UTC] FB :: batch clearing 7 urls
+[21-Feb-2023 04:27:20 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs/
+[21-Feb-2023 04:27:20 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[21-Feb-2023 04:27:20 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:27:21 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:27:21 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[21-Feb-2023 04:27:21 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/
+[21-Feb-2023 04:27:21 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/06/14/
+[21-Feb-2023 04:38:50 UTC] FB :: post published, clearing cache
+[21-Feb-2023 04:38:50 UTC] FB :: excluding '/comments/feed/'
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[21-Feb-2023 04:38:50 UTC] FB :: excluding '/category/'
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[21-Feb-2023 04:38:50 UTC] FB :: excluding '/author/'
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[21-Feb-2023 04:38:50 UTC] FB :: excluding '/feed/'
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/atom/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/atom/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/atom/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/atom/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/atom/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[21-Feb-2023 04:38:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[21-Feb-2023 04:38:50 UTC] FB :: batch clearing 11 urls
+[21-Feb-2023 04:38:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs-old/
+[21-Feb-2023 04:38:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[21-Feb-2023 04:38:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dog/
+[21-Feb-2023 04:38:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dogs/
+[21-Feb-2023 04:38:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dos-and-donts/
+[21-Feb-2023 04:38:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/mans-best-friend/
+[21-Feb-2023 04:38:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:38:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:38:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[21-Feb-2023 04:38:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[21-Feb-2023 04:38:52 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[21-Feb-2023 04:46:42 UTC] FB :: post published, clearing cache
+[21-Feb-2023 04:46:42 UTC] FB :: excluding '/comments/feed/'
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[21-Feb-2023 04:46:42 UTC] FB :: excluding '/category/'
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[21-Feb-2023 04:46:42 UTC] FB :: excluding '/author/'
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[21-Feb-2023 04:46:42 UTC] FB :: excluding '/feed/'
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/atom/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/atom/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/atom/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/atom/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/atom/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[21-Feb-2023 04:46:42 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[21-Feb-2023 04:46:42 UTC] FB :: batch clearing 11 urls
+[21-Feb-2023 04:46:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs-old/
+[21-Feb-2023 04:46:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[21-Feb-2023 04:46:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dog/
+[21-Feb-2023 04:46:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dogs/
+[21-Feb-2023 04:46:42 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dos-and-donts/
+[21-Feb-2023 04:46:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/mans-best-friend/
+[21-Feb-2023 04:46:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:46:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:46:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[21-Feb-2023 04:46:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[21-Feb-2023 04:46:43 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[21-Feb-2023 04:58:07 UTC] FB :: post published, clearing cache
+[21-Feb-2023 04:58:07 UTC] FB :: excluding '/comments/feed/'
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[21-Feb-2023 04:58:07 UTC] FB :: excluding '/category/'
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[21-Feb-2023 04:58:07 UTC] FB :: excluding '/author/'
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[21-Feb-2023 04:58:07 UTC] FB :: excluding '/feed/'
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/atom/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:39: https://fundraisingcup.org/blog/tag/dog/feed/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/atom/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tag/dogs/feed/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/atom/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:49: https://fundraisingcup.org/blog/tag/dos-and-donts/feed/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/atom/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:52: https://fundraisingcup.org/blog/tag/mans-best-friend/feed/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/atom/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/dogs-old/feed/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[21-Feb-2023 04:58:07 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[21-Feb-2023 04:58:07 UTC] FB :: batch clearing 11 urls
+[21-Feb-2023 04:58:07 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/dogs-old/
+[21-Feb-2023 04:58:07 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[21-Feb-2023 04:58:07 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dog/
+[21-Feb-2023 04:58:07 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dogs/
+[21-Feb-2023 04:58:07 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/dos-and-donts/
+[21-Feb-2023 04:58:08 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/mans-best-friend/
+[21-Feb-2023 04:58:08 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:58:08 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[21-Feb-2023 04:58:08 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[21-Feb-2023 04:58:08 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[21-Feb-2023 04:58:08 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[25-Feb-2023 04:04:23 UTC] FB :: post published, clearing cache
+[25-Feb-2023 04:04:23 UTC] FB :: excluding '/comments/feed/'
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[25-Feb-2023 04:04:23 UTC] FB :: excluding '/category/'
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[25-Feb-2023 04:04:23 UTC] FB :: excluding '/author/'
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[25-Feb-2023 04:04:23 UTC] FB :: excluding '/feed/'
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tea-time/feed/atom/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tea-time/feed/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[25-Feb-2023 04:04:23 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[25-Feb-2023 04:04:23 UTC] FB :: batch clearing 7 urls
+[25-Feb-2023 04:04:23 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tea-time/
+[25-Feb-2023 04:04:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[25-Feb-2023 04:04:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[25-Feb-2023 04:04:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[25-Feb-2023 04:04:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[25-Feb-2023 04:04:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[25-Feb-2023 04:04:24 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[25-Feb-2023 04:11:50 UTC] FB :: post published, clearing cache
+[25-Feb-2023 04:11:50 UTC] FB :: excluding '/comments/feed/'
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[25-Feb-2023 04:11:50 UTC] FB :: excluding '/category/'
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[25-Feb-2023 04:11:50 UTC] FB :: excluding '/author/'
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[25-Feb-2023 04:11:50 UTC] FB :: excluding '/feed/'
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tea-time/feed/atom/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tea-time/feed/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[25-Feb-2023 04:11:50 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[25-Feb-2023 04:11:50 UTC] FB :: batch clearing 7 urls
+[25-Feb-2023 04:11:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tea-time/
+[25-Feb-2023 04:11:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[25-Feb-2023 04:11:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[25-Feb-2023 04:11:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[25-Feb-2023 04:11:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[25-Feb-2023 04:11:50 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[25-Feb-2023 04:11:51 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[25-Feb-2023 04:15:03 UTC] FB :: post published, clearing cache
+[25-Feb-2023 04:15:03 UTC] FB :: excluding '/comments/feed/'
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[25-Feb-2023 04:15:03 UTC] FB :: excluding '/category/'
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/atom/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/creative-work/feed/
+[25-Feb-2023 04:15:03 UTC] FB :: excluding '/author/'
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[25-Feb-2023 04:15:03 UTC] FB :: excluding '/feed/'
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tea-time/feed/atom/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:40: https://fundraisingcup.org/blog/tea-time/feed/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[25-Feb-2023 04:15:03 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[25-Feb-2023 04:15:03 UTC] FB :: batch clearing 7 urls
+[25-Feb-2023 04:15:03 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tea-time/
+[25-Feb-2023 04:15:04 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[25-Feb-2023 04:15:04 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[25-Feb-2023 04:15:04 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[25-Feb-2023 04:15:04 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[25-Feb-2023 04:15:04 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[25-Feb-2023 04:15:04 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/
+[25-Feb-2023 04:16:31 UTC] FB :: post published, clearing cache
+[25-Feb-2023 04:16:31 UTC] FB :: excluding '/comments/feed/'
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/atom/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/comments/feed/
+[25-Feb-2023 04:16:31 UTC] FB :: excluding '/category/'
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/family-health/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/family-health/feed/atom/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/category/family-health/feed/
+[25-Feb-2023 04:16:31 UTC] FB :: excluding '/author/'
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/atom/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/author/start-fundraising/feed/
+[25-Feb-2023 04:16:31 UTC] FB :: excluding '/feed/'
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:42: https://fundraisingcup.org/blog/tag/health/feed/atom/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:42: https://fundraisingcup.org/blog/tag/health/feed/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:41: https://fundraisingcup.org/blog/tag/women/feed/atom/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:41: https://fundraisingcup.org/blog/tag/women/feed/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:48: https://fundraisingcup.org/blog/tag/women-health/feed/atom/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:48: https://fundraisingcup.org/blog/tag/women-health/feed/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/women-health/feed/atom/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:44: https://fundraisingcup.org/blog/women-health/feed/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/atom/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rss/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/
+[25-Feb-2023 04:16:31 UTC] FB :: excluded url slug found:31: https://fundraisingcup.org/blog/feed/rdf/
+[25-Feb-2023 04:16:31 UTC] FB :: batch clearing 10 urls
+[25-Feb-2023 04:16:31 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/women-health/
+[25-Feb-2023 04:16:31 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog
+[25-Feb-2023 04:16:31 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/health/
+[25-Feb-2023 04:16:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/women/
+[25-Feb-2023 04:16:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/tag/women-health/
+[25-Feb-2023 04:16:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[25-Feb-2023 04:16:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/
+[25-Feb-2023 04:16:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/
+[25-Feb-2023 04:16:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/
+[25-Feb-2023 04:16:32 UTC] FBERR::(#100) Must have a valid access token or a valid url_hmac :: https://fundraisingcup.org/blog/2022/03/30/

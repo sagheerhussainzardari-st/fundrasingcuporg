@@ -93,3 +93,11 @@
 [07-Nov-2022 23:11:37 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
 [13-Nov-2022 03:57:31 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
 [21-Dec-2022 03:54:56 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
+[15-Feb-2023 18:20:26 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
+[17-Feb-2023 18:47:47 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
+[18-Feb-2023 20:47:03 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
+[21-Feb-2023 01:00:39 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
+[23-Feb-2023 19:30:48 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
+[27-Feb-2023 20:24:08 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
+[28-Feb-2023 03:16:37 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4
+[04-Mar-2023 12:27:15 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/trey/public_html/public/dog/index.php on line 4

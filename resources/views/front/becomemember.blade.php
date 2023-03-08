@@ -160,29 +160,29 @@
                     </div>
                     <div class="col-lg-7 sign-up-form">
                         <div class="row">
-                            <div class="col-lg-12">
+                            <div class="col-lg-6">
                                 <label for="bank_title" class="form-label">Account Title?</label>
                                 <input required type="text" class="bg-transparent form-control py-3" id="bank_title"
                                        name="bank_title" placeholder="Account Title">
                                 <p class="text-danger err-field d-none" id="bank_titleError">This Field Is Required</p>
                             </div>
 
-                            <div class="col-lg-12 ">
-                                <label for="bank_account_no" class="form-label mt-2">Account Number?</label>
+                            <div class="col-lg-6">
+                                <label for="bank_account_no" class="form-label">Account Number?</label>
                                 <input required type="number" class="bg-transparent form-control py-3" id="bank_account_no"
                                        name="bank_account_no" placeholder="Account Number">
                                 <p class="text-danger err-field d-none" id="bank_account_noError">This Field Is Required</p>
                             </div>
 
-                            <div class="col-lg-12 ">
-                                <label for="bank_iban" class="form-label mt-2">IBAN?</label>
+                            <div class="col-lg-6">
+                                <label for="bank_iban" class="form-label">IBAN?</label>
                                 <input required type="text" class="bg-transparent form-control py-3" id="bank_iban"
                                        name="bank_iban" placeholder="IBAN">
                                 <p class="text-danger err-field d-none" id="bank_ibanError">This Field Is Required</p>
                             </div>
 
-                            <div class="col-lg-12 ">
-                                <label for="bank_swift" class="form-label mt-2">SWIFT?</label>
+                            <div class="col-lg-6">
+                                <label for="bank_swift" class="form-label">SWIFT?</label>
                                 <input required type="text" class="bg-transparent form-control py-3" id="bank_swift"
                                        name="bank_swift" placeholder="SWIFT">
                                 <p class="text-danger err-field d-none" id="bank_swiftError">This Field Is Required</p>

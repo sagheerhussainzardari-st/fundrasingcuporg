@@ -52,10 +52,10 @@
                             <label class="form-label">{{ ucwords(str_replace('_',' ','dob')) }}</label>
                             <input type="date" class="form-control"
                                    name="dob" id="dob" placeholder="{{ ucwords(str_replace('_',' ','dob')) }}" value="{{ old('dob', auth()->user()->dob ?? '') }}" required/>
-                                   @error('dob')
-                                   <span class="text-red">{{ $message }}</span>
-                                   @enderror
-                                </div>
+                            @error('dob')
+                            <span class="text-red">{{ $message }}</span>
+                            @enderror
+                        </div>
 
                         <div class="mb-3">
                             <label class="form-label">{{ ucwords(str_replace('_',' ','address')) }}</label>

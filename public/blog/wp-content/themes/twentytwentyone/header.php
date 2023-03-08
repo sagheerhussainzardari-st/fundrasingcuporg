@@ -375,7 +375,7 @@ input:focus{
         </li>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
           <ul class="navbar-nav m-auto">
-            <a class="navbar-brand m-auto" href="https://fundraisingcup.org/"><img class="w-100" src="https://fundraisingcup.org/blog/wp-content/uploads/2022/03/mainLogo.png" alt="mainLogo.png"></a>
+            <a class="navbar-brand m-auto" href="https://fundraisingcup.org/"><img class="w-100" src="https://fundraisingcup.org/blog/wp-content/uploads/2023/02/fund-1.png" alt="mainLogo.png"></a>
             <li class="nav-item searchLi">
               <a class="nav-link" href="javascript:void(0)"  onclick="searchBarActive()"><i class="fas fa-search"></i> Search</a>
             </li>

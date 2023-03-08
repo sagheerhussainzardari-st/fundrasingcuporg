@@ -508,7 +508,7 @@
                                         </div>
                                         <div class='form-row row'>
                                             <div class='col-md-12 error form-group hide'>
-                                                <div class='alert-danger alert'>
+                                                <div class=' alert'>
                                                 </div>
                                             </div>
                                         </div>
@@ -564,11 +564,14 @@
             });
 
             function stripeResponseHandler(status, response) {
+             
                 if (response.error) {
                     $('.error')
                         .removeClass('hide')
                         .find('.alert')
+                        .addClass('alert-danger')
                         .text(response.error.message);
+                        
                 } else {
                     /* token contains id, last4, and card type */
                     var token = response['id'];

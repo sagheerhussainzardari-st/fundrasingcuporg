@@ -4,7 +4,10 @@ use App\Http\Controllers\Front\DonationController;
 use App\Http\Controllers\Front\FundController;
 use App\Http\Controllers\Front\LoginController;
 use App\Http\Controllers\Front\RegisterController;
+use App\Models\Career;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -18,6 +21,23 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+Route::get('/clear-cache', function () {
+   Artisan::call('cache:clear');
+   Artisan::call('route:clear');
+   Artisan::call('config:clear');
+
+   return "Cache cleared successfully";
+});
+
+Route::get("/careers_page",function(Request $request){
+    
+});
+
+Route::get('/careers_page', function () {
+    $careers = Career::all();
+    return view('front.careers_front', compact('careers'));
+});
 Auth::routes();
 Auth::routes(['register' => false]);
 Route::get('verify/resend', [App\Http\Controllers\Auth\TwoFactorController::class, 'resend'])->name('verify.resend');
@@ -29,6 +49,22 @@ Route::post('/update-password/{id}', [App\Http\Controllers\HomeController::class
 Route::group(['prefix' => 'admin', 'as' => 'admin.', 'namespace' => 'App\Http\Controllers\Admin', 'middleware' => ['auth', 'twofactor']], function () {
     Route::get('/', [App\Http\Controllers\Admin\DashboardController::class, 'root'])->name('dashboard');
     // Permissions
+
+    Route::get("/careers",function(Request $request){
+        $careers = DB::select("select * from careers");
+        return view("admin.careers",["careers" =>  $careers]);
+    });
+
+    Route::post("/careers",function(Request $request){
+        DB::select("INSERT INTO `careers` (`id`, `name`) VALUES (NULL, '".$request->position."')");
+        return redirect()->back();
+    });
+
+    Route::get("/careers/delete/{id}",function(Request $request,$id){
+        DB::select("DELETE FROM careers where id=".$id);
+        return redirect()->back();
+    });
+    
     Route::delete('permissions/destroy', [App\Http\Controllers\Admin\PermissionsController::class, 'massDestroy'])->name('permissions.massDestroy');
     Route::resource('permissions', PermissionsController::class);
 
@@ -78,12 +114,13 @@ Route::get('donate/{fund}', [DonationController::class, 'index'])->name('donatio
 Route::post('donation', [DonationController::class, 'donationPost'])->name('donation.post');
 Route::get('discover', [App\Http\Controllers\Front\DiscoverController::class, 'index'])->name('discover');
 Route::get('/', [App\Http\Controllers\Front\HomeController::class, 'index'])->name('home.index');
+Route::view('press-release', 'front.press_release')->name('press-release');
 Route::get('contact-us', [DonationController::class, 'contact_us'])->name('contact_us');
 Route::post('/sendMessage', [App\Http\Controllers\Front\DiscoverController::class, 'sendMessage'])->name('sendMessage');
 
 
-Route::get('{any}', [App\Http\Controllers\Front\HomeController::class, 'home'])->name('home');
 
+Route::get('{any}', [App\Http\Controllers\Front\HomeController::class, 'home'])->name('home');
 
 //Language Translation
 Route::get('index/{locale}', [App\Http\Controllers\HomeController::class, 'lang']);

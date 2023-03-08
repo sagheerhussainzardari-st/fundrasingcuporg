@@ -51,6 +51,15 @@
                         </a>
                     </li>
                 @endcan
+
+                @can('fund_access')
+                    <li>
+                        <a href="/admin/careers" class="waves-effect">
+                            <i class="bx bx-user"></i>
+                            <span>Careers</span>
+                        </a>
+                    </li>
+                @endcan
                 
                 {{-- @if(Auth::user()->roles[0]->title == "Admin")
                     <li>

@@ -13,11 +13,11 @@
 <section class="mt-4">
     <div class="container">
         <div class="row">
-            <div class="col-6 col-lg-3 m-auto ms-0">
+            <div class="col-2 col-lg-3 m-auto ms-0">
                 <a class="brandong-logo" href="{{ route('home.index') }}"><img class="w-100" src="{{ asset($setting->logo) }}"
                                                                     alt="{{ asset($setting->logo) }}"></a>
             </div>
-            <div class="col-6 col-lg-4 text-end me-0 m-auto">
+            <div class="col-10 col-lg-4 text-end me-0 m-auto">
                 @guest
                 <div>
                     Don't have an account?

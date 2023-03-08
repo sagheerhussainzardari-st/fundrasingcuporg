@@ -8,6 +8,7 @@ use App\Models\Payment;
 use Haruncpi\LaravelIdGenerator\IdGenerator;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Log;
 
 class StripeService {
     public function stripeCreate(StoreDonationRequest $request)
@@ -28,12 +29,22 @@ class StripeService {
             ]);
             $order->save();
             \Stripe\Stripe::setApiKey(env('STRIPE_SECRET'));
-            $customer = \Stripe\Charge::create([
-                "amount" => (float)$request->amount * 100,
-                "currency" => "usd",
-                "source" => $request->stripeToken,
-                "description" => $request->description
-            ]);
+            try{
+                $customer = \Stripe\Charge::create([
+                    "amount" => (float)$request->amount * 100,
+                    "currency" => "usd",
+                    "source" => $request->stripeToken,
+                    "description" => $request->description
+                ]);
+                
+                
+            }catch (\Exception $e) {
+                dd($e->getMessage());
+                //   return back()->withErrors("Problem with card");
+                //   return back()->withErrors($e->getMessage());
+            }
+            
+           
             if ($customer->status == 'succeeded') {
                 $order->payment_status = 'Paid';
                 $order->save();

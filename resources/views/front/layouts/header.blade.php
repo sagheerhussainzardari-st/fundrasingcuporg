@@ -7,7 +7,7 @@
                         <a class="nav-link" href="javascript:void(0)" onclick="searchBarActive()"><i class="fas fa-search"></i></a>
                     </li>
                     <li class="nav-item">
-                        <a class="navbar-brand m-auto" href="{{ route('home.index') }}"><img class="w-50"
+                        <a class="navbar-brand m-auto" href="{{ route('home.index') }}"><img class="w-25"
                                                                              src="{{ asset($setting->logo) }}"
                                                                              alt="{{ asset($setting->logo) }}"></a>
                     </li>
@@ -40,7 +40,7 @@
             </li>
             <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
                 <ul class="navbar-nav m-auto">
-                    <a class="navbar-brand m-auto" href="{{ route('home.index') }}"><img class="w-50"
+                    <a class="navbar-brand m-auto" href="{{ route('home.index') }}"><img class="w-25"
                                                                          src="{{ asset($setting->logo) }}"
                                                                          alt="{{ asset($setting->logo) }}"></a>
                     <li class="nav-item searchLi">
@@ -59,7 +59,7 @@
                            data-toggle="dropdown">Discover</a>
                         <ul class="dropdown-menu shadow">
                             <li><a class="nav-link" href="{{ route('discover') }}">Fundraisers</a></li>
-                            <li><a class="nav-link" href="{{ url('success-stories') }}">Success Stories</a></li>
+                            <li><a class="nav-link" href="/#homeSection03">Success Stories</a></li>
                             <li><a class="nav-link" href="{{ url('coronavirus-fundraising') }}">Coronavirus fundraising</a></li>
                             <li><a class="nav-link" href="{{ url('pricing') }}">Pricing</a></li>
                         </ul>

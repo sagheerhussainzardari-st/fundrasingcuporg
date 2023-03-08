@@ -19,7 +19,7 @@ class DonationController extends Controller
     {
         try {
             (new StripeService())->stripeCreate($request);
-            return back()->withSuccess('Thank you for your donations.');
+            return back();
         } catch (\Exception $e) {
             return back()->withErrors($e->getMessage());
         }
