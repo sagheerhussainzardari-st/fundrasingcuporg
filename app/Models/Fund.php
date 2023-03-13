@@ -47,6 +47,10 @@ class Fund extends Model
         return $this->hasMany(Order::class);
     }
 
+     // results in a "problem", se examples below
+     public function orders_paid() {
+        return $this->orders()->where('payment_status','=', 'Paid');
+    }
     final public function scopeNearYou(Builder $query): Builder
     {
         return $this->inRandomOrder()->take(6);

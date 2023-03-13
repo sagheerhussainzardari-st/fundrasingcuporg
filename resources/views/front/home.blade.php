@@ -61,12 +61,12 @@
                                                         {{ Illuminate\Support\Str::limit($fundraiser->description, 50, $end='...') }}
                                                     </p>
                                                     <div class="progress">
-                                                        <div class="progress-bar" role="progressbar" aria-valuenow="{{ getPercentage($fundraiser->orders->sum('amount'),$fundraiser->amount) }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ getPercentage($fundraiser->orders->sum('amount'),$fundraiser->amount) }}%">
-                                                            <span class="sr-only">{{ getPercentage($fundraiser->orders->sum('amount'),$fundraiser->amount) }}% Complete</span>
+                                                        <div class="progress-bar" role="progressbar" aria-valuenow="{{ getPercentage($fundraiser->orders_paid->sum('amount'),$fundraiser->amount) }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ getPercentage($fundraiser->orders_paid->sum('amount'),$fundraiser->amount) }}%">
+                                                            <span class="sr-only">{{ getPercentage($fundraiser->orders_paid->sum('amount'),$fundraiser->amount) }}% Complete</span>
                                                         </div>
                                                     </div>
                                                     <div class="raisedAmount">
-                                                        <h6><strong>${{ number_format($fundraiser->orders->sum('amount')) }} raised</strong> of ${{ number_format($fundraiser->amount) }}</h6>
+                                                        <h6><strong>${{ number_format($fundraiser->orders_paid->sum('amount')) }} raised</strong> of ${{ number_format($fundraiser->amount) }}</h6>
                                                     </div>
                                                 </div>
                                             </div>
@@ -587,12 +587,12 @@
                                                     {{ Illuminate\Support\Str::limit($nearYou->description, 50, $end='...') }}
                                                 </p>
                                                 <div class="progress">
-                                                    <div class="progress-bar" role="progressbar" aria-valuenow="{{ getPercentage($nearYou->orders->sum('amount'),$nearYou->amount) }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ getPercentage($nearYou->orders->sum('amount'),$nearYou->amount) }}%">
-                                                        <span class="sr-only">{{ getPercentage($nearYou->orders->sum('amount'),$nearYou->amount) }}% Complete</span>
+                                                    <div class="progress-bar" role="progressbar" aria-valuenow="{{ getPercentage($nearYou->orders_paid->sum('amount'),$nearYou->amount) }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ getPercentage($nearYou->orders_paid->sum('amount'),$nearYou->amount) }}%">
+                                                        <span class="sr-only">{{ getPercentage($nearYou->orders_paid->sum('amount'),$nearYou->amount) }}% Complete</span>
                                                     </div>
                                                 </div>
                                                 <div class="raisedAmount">
-                                                    <h6><strong>${{ number_format($nearYou->orders->sum('amount')) }} raised</strong> of ${{ number_format($nearYou->amount) }}</h6>
+                                                    <h6><strong>${{ number_format($nearYou->orders_paid->sum('amount')) }} raised</strong> of ${{ number_format($nearYou->amount) }}</h6>
                                                 </div>
                                             </div>
                                         </div>

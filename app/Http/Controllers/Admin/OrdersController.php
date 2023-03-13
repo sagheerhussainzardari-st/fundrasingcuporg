@@ -22,7 +22,7 @@ class OrdersController extends Controller
     {
         abort_if(Gate::denies('order_access'), Response::HTTP_FORBIDDEN, '403 Forbidden');
         if (request()->ajax()) {
-            $orders = Order::with(['funds:id,name','users:id,name'])->orderBy('id','desc');
+            $orders = Order::with(['funds:id,name','users:id,name'])->where('payment_status','Paid')->orderBy('id','desc');
             $user = \auth()->user();
             if ($user->CountUserRole() > 0) {
                 $orders->get();
