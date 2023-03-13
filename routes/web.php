@@ -21,6 +21,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::view('thank_you', 'front.thank_you_payment')->name('thank_you');
 
 Route::get('/clear-cache', function () {
    Artisan::call('cache:clear');
